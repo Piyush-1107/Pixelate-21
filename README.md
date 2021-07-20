@@ -95,7 +95,7 @@
 4. <b>Four steps</b> are to be executed, viz., reaching the first patient, delivering the first patient to corresponding hospital, reaching the second patient and delivering the second patient to the corresponding hospital.
 5. Destination location is determined in all four steps, thereafter, destination location and current location are send to <b>dijsktra class</b> to find the optimal path.
 6. A <b>list</b> is created providing the path to be taken by the bot to reach destination. Various custom-made functions, such as <code>travel()</code>, <code>align()</code>, <code>move()</code>, <code>left()</code> and <code>right()</code>, are employed in order to facilitate the movement of the bot. <br>
-8. Video of our run can be found [here](https://youtu.be/CxlYF0vOuJw)
+8. Video of our run can be found [here](https://drive.google.com/file/d/1oIG1dmQrNCpeDWL4WBTsqhCpQo9Nq6R1/view?usp=sharing)
 
 <h3>Team</h3>
     
