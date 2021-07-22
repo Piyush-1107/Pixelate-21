@@ -15,7 +15,7 @@
 <ul>
     <li>
         The problem is divided into two tasks:
-        <ol>
+        <ul>
             <li>
                 Move the ambulance to the patient locations (pink tiles) inorder to reveal the Covid status of the
                 patients, i.e., the patient is having covid symptoms or not having covid symptoms, which are hidden
@@ -24,12 +24,12 @@
             <li>
                 Deliver the patients to their respective hospital following the rules described below.
             </li>
-        </ol>
+        </ul>
     </li>
     <li>
         The arena has different traffic in different places represented by red, yellow, green, white tiles showing
         heavy, intermediate, low, no traffic respectively.
-        <ol>
+        <ul>
             <li>
                 As red tiles are heavy traffic areas so in order to cross one red tile the bot (ambulance) takes 4 units
                 of time.
@@ -45,7 +45,7 @@
             <li>
                 As white tiles have no traffic at all hence the ambulance takes only 1 unit of time to cross each tile.
             </li>
-        </ol>
+        </ul>
     </li>
     <li>
         As it is a matter of life and death for the patient, the bot (ambulance) needs to take as minimum time as
